@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**andresaranza66/andresaranza66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Andres.  
+🌱 Aspiring Frontend Developer | HTML, CSS, JavaScript, React.  
+💻 Building projects and growing my skills while seeking my first professional developer role.  
+⚽ Soccer player – strong teamwork, discipline, and perseverance.  
+🚀 Passionate about creating clean, responsive web applications.
 
-Here are some ideas to get you started:
+### Contact Chanels
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📞 +57 321 8457789
+
+### Soccer Video
+
+[![Watch Video](https://img.shields.io/badge/Watch-Video-red)](https://www.youtube.com/watch?v=AMUuij4ohlk&t=2s)
